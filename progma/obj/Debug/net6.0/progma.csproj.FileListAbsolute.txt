@@ -1,0 +1,15 @@
+C:\Users\2022102020071\source\repos\progma\progma\bin\Debug\net6.0\progma.exe
+C:\Users\2022102020071\source\repos\progma\progma\bin\Debug\net6.0\progma.deps.json
+C:\Users\2022102020071\source\repos\progma\progma\bin\Debug\net6.0\progma.runtimeconfig.json
+C:\Users\2022102020071\source\repos\progma\progma\bin\Debug\net6.0\progma.dll
+C:\Users\2022102020071\source\repos\progma\progma\bin\Debug\net6.0\progma.pdb
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.csproj.AssemblyReference.cache
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.AssemblyInfoInputs.cache
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.AssemblyInfo.cs
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.csproj.CoreCompileInputs.cache
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.dll
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\refint\progma.dll
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.pdb
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\progma.genruntimeconfig.cache
+C:\Users\2022102020071\source\repos\progma\progma\obj\Debug\net6.0\ref\progma.dll
